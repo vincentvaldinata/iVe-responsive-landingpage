@@ -1,4 +1,4 @@
-# iVe-responsive-landingpage
+# ive-responsive-landingpage
 #### is a resonsive landing-page
 #### wich has a different structure if it viewed from smartphone, tablets or laptops
 
